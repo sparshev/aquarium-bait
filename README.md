@@ -1,11 +1,11 @@
-# [Aquarium Bait](https://github.com/adobe/aquarium-bait)
+# [Aquarium Bait](https://github.com/sparshev/aquarium-bait)
 
-This project is an essential part of the [Aquarium](https://github.com/adobe/aquarium-fish/wiki/Aquarium)
+This project is an essential part of the [Aquarium](https://github.com/sparshev/aquarium-fish/wiki/Aquarium)
 system - it's purpose is creating the enterprise oriented, consistent and reliable environment
-images for further using as an env source for the [Aquarium Fish](https://github.com/adobe/aquarium-fish/)
+images for further using as an env source for the [Aquarium Fish](https://github.com/sparshev/aquarium-fish/)
 node.
 
-You can use Aquarium Bait as a general image building system without the rest of the [Aquarium](https://github.com/adobe/aquarium-fish/wiki/Aquarium)
+You can use Aquarium Bait as a general image building system without the rest of the [Aquarium](https://github.com/sparshev/aquarium-fish/wiki/Aquarium)
 stack components and run the images manually (it's described how below for each driver).
 
 It's not only useful for the CI where we need to ensure the environment is exactly the one we
